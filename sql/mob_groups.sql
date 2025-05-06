@@ -8384,6 +8384,7 @@ INSERT INTO `mob_groups` VALUES (63,0,115,'Chepelle',0,128,0,0,0,0,0,0);
 INSERT INTO `mob_groups` VALUES (64,0,115,'Chepelles_Tiger',0,128,0,0,0,0,0,0);
 INSERT INTO `mob_groups` VALUES (65,0,115,'Chepelles_Sheep',0,128,0,0,0,0,0,0);
 INSERT INTO `mob_groups` VALUES (66,0,115,'Chepelles_Hare',0,128,0,0,0,0,0,0);
+INSERT INTO `mob_groups` VALUES (67,3148,115,'Pixie',330,0,2000,0,0,56,58,0);
 
 -- ------------------------------------------------------------
 -- East_Sarutabaruta (Zone 116)
